@@ -434,7 +434,7 @@ namespace Project_FinchControl
             }
 
             DisplayContinuePrompt();
-            DisplayScreenHeader("Get Data");
+            DisplayScreenHeader("Get Data"); 
 
             Console.WriteLine();
             Console.WriteLine("\tTable of Temperatures");
